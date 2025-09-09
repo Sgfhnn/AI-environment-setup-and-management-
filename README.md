@@ -195,12 +195,8 @@ AI-environment-setup-and-management-/
 
 ## 📄 License
 
-This project is created as a Phase 1 MVP for Flutter development environment setup on Windows.
+This project is created as a Phase 1 MVP for Flutter development environment setup on Windows also issued with [`MIT License.]`(AI-environment-setup-and-management-?tab=MIT-1-ov-file#)
 
 ## 🤝 Contributing
 
 This is a Phase 1 MVP focusing specifically on Windows Flutter development setup. Future phases will expand functionality and platform support.
-
----
-
-**Ready to start Flutter development?** Run the tool and get your complete development environment set up in minutes! 🎯
