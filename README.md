@@ -185,7 +185,7 @@ AI-environment-setup-and-management-/
 - **`Logger`**: Centralized logging with multiple output levels
 
 ### Future Enhancements (Phase 2)
-- Multi-stack support (React Native, Xamarin, etc.)
+- Multi-stack support (React Native,Nodejs,Xamarin, etc...)
 - AI-powered recommendations
 - Team management features
 - AI-powered Dependencies and package 📦 management
@@ -194,7 +194,7 @@ AI-environment-setup-and-management-/
 
 ## 📄 License
 
-This project is created as a Phase 1 MVP for Flutter development environment setup on Windows also issued with [MIT License](LICENSE).
+This project is created as a Phase 1 for Flutter development environment setup on Windows also issued with [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
