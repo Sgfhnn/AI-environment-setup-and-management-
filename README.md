@@ -1,5 +1,3 @@
-
-
 # Flutter Development Environment Setup Tool
 
 A **complete Windows executable** that automatically scans, downloads, and installs Flutter development tools with a user-friendly GUI. No Python installation required!
@@ -195,7 +193,7 @@ AI-environment-setup-and-management-/
 
 ## 📄 License
 
-This project is created as a Phase 1 MVP for Flutter development environment setup on Windows also issued with [`MIT License.]`(LICENCE)
+This project is created as a Phase 1 MVP for Flutter development environment setup on Windows also issued with [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
