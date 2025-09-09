@@ -197,4 +197,4 @@ This project is created as a Phase 1 MVP for Flutter development environment set
 
 ## 🤝 Contributing
 
-This is a Phase 1 MVP focusing specifically on Windows Flutter development setup. Future phases will expand functionality and platform support Any One who Wanna Contribute to This Open source Project You're WELCOME L.
+This is a Phase 1 MVP focusing specifically on Windows Flutter development setup. Future phases will expand functionality and platform support Any One who Wanna Contribute to This Open source Project You're WELCOME
