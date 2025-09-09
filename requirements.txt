@@ -1,0 +1,45 @@
+# Flutter Development Environment Setup Tool - Requirements
+# Python 3.8+ required
+
+# Core GUI framework (built into Python, no installation needed)
+# tkinter - included with Python standard library
+
+# Windows registry access (built into Python on Windows)
+# winreg - included with Python standard library on Windows
+
+# Standard library modules used (no installation needed):
+# - os
+# - subprocess  
+# - urllib.request
+# - tempfile
+# - shutil
+# - json
+# - pathlib
+# - ctypes
+# - sys
+# - datetime
+# - zipfile
+# - tarfile
+# - logging
+# - threading
+# - re
+
+# External dependencies for enhanced functionality:
+requests>=2.25.0  # For improved download progress tracking and HTTP handling
+
+# PyInstaller for creating Windows executable
+pyinstaller>=5.0.0  # For packaging as .exe file
+
+# Note: Most modules are from Python standard library
+# Only 'requests' is required for enhanced download functionality
+
+# Optional: For development and testing
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+
+# System Requirements:
+# - Windows 10 or later (64-bit recommended)
+# - Python 3.8 or later
+# - Administrator privileges (for installing development tools)
+# - Internet connection (for downloading development tools)
+# - Minimum 8GB free disk space (for Flutter, Android Studio, Java JDK)
