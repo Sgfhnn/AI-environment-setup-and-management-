@@ -191,6 +191,7 @@ AI-environment-setup-and-management-/
 - AI-powered Dependencies and package 📦 management
 - Cloud synchronization
 - Custom installation paths
+- and more Features are Coming...
 
 ## 📄 License
 
