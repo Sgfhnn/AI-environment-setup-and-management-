@@ -44,8 +44,12 @@ python main.py
 ## 📖 Detailed Usage Guide
 
 ### 1. Launch the Application
-- **Executable**: Double-click `FlutterDevSetup.exe` (no installation needed)
-- **From Source**: Run `python main.py` from command line
+- **Executable**: Double-click `FlutterDevSetup.exe` (no installation needed) Or 
+- **From Source**: if You clone it from the GitHub repo git clone https://github.com/Sgfhnn/AI-environment-setup-and-management-.git 
+change the PATH to 
+-cd AI-environment-setup-and-management-
+then Run
+python main.py
 - The GUI will open showing the Flutter Development Environment Setup interface
 
 ### 2. Scan Your System
