@@ -38,7 +38,7 @@ A **Phase 1 a complete Windows executable** that automatically scans, downloads,
    ![Third Step](dist/third-step.jpg)
 
 5. **Click "Start Installation"** to install missing components  
-   ![Fourth Step](dist/fourth-step.jpg)
+   ![Fourth Step](dist/fourth.jpg)
 
 6. **Wait** for completion and restart your system  
    ![Fifth Step](dist/fifth-step.jpg)
