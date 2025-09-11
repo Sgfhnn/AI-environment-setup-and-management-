@@ -46,6 +46,7 @@ python main.py
 - AI-powered recommendations
 - Team management features
 - AI-powered Dependencies and package 📦 management
+-AI-powered Dependencies and package conflict resolve
 - Cloud synchronization
 - Custom installation paths
 - and more Features are Coming...
