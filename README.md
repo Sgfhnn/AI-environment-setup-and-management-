@@ -25,12 +25,29 @@ A **Phase 1 a complete Windows executable** that automatically scans, downloads,
 ## 📥 How to Use
 
 ### Quick Start (Recommended)
-1. **Download** the executable: [`FlutterDevSetup.exe`](dist/FlutterDevSetup.exe) (14.5 MB)
-2. **Run** the downloaded file (double-click `FlutterDevSetup.exe`)
+
+1. **Download** the executable: [`FlutterDevSetup.exe`](dist/FlutterDevSetup.exe) (14.5 MB)  
+   ![First Step](dist/first-step.jpg)
+
+2. **Run** the downloaded file (double-click `FlutterDevSetup.exe`)  
+   ![Second Step](dist/second-step.jpg)
+
 3. **Allow** administrator privileges when Windows UAC prompt appears
-4. **Click "Scan System"** to detect installed/missing tools
-5. **Click "Start Installation"** to install missing components
-6. **Wait** for completion and restart your system
+
+4. **Click "Scan System"** to detect installed/missing tools  
+   ![Third Step](dist/third-step.jpg)
+
+5. **Click "Start Installation"** to install missing components  
+   ![Fourth Step](dist/fourth-step.jpg)
+
+6. **Wait** for completion and restart your system  
+   ![Fifth Step](dist/fifth-step.jpg)
+
+#### To view the logs  
+![View Logs](dist/to-view-logs.jpg)
+
+#### To undo the installation  
+![Undo Installation](dist/to-undo.jpg)
 
 ### Alternative: Run from Source
 ```bash
@@ -39,14 +56,14 @@ cd AI-environment-setup-and-management-
 python main.py
 ```
 
--For More read The Docs for help
+For More read [The Docs](docs) for help
 
 ### Future Enhancements (Phase 2)
 - Multi-stack support (React Native,Nodejs,Xamarin, etc...)
 - AI-powered recommendations
 - Team management features
 - AI-powered Dependencies and package 📦 management
--AI-powered Dependencies and package conflict resolve
+- AI-powered Dependencies and package conflict resolve
 - Cloud synchronization
 - Custom installation paths
 - and more Features are Coming...
@@ -57,4 +74,4 @@ This project is created as a Phase 1 for Flutter development environment setup o
 
 ## 🤝 Contributing
 
-This is a Phase 1 focusing specifically on Windows Flutter development setup. Future phases will expand functionality and platform support Any One who Wanna Contribute to This Open source Project You're WELCOME
+This is a Phase 1 focusing specifically on Windows Flutter development setup. Future phases will expand functionality and platform support Any One who Wanna Contribute to This Open source Project [...]
